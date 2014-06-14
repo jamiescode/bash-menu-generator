@@ -5,9 +5,22 @@ A simple bash script that will generate menus.
 
 Examples
 =================
+
 ![alt Bash Menu Options Example](https://raw.github.com/JamieCruwys/bash-menu-generator/master/images/Bash Menu Options.png)
 
 ![alt Bash Menu Instructions Example](https://raw.github.com/JamieCruwys/bash-menu-generator/master/images/Bash Menu Instructions.png)
+
+Usage
+=================
+
+generateDialog
+-----------------
+**Parameter 1:** "options" to use **[1]** or "instructions" for **1.**  
+**Parameter 2:** Title for the menu  
+**Parameter 3:** Array of options or instructions to show  
+
+`e.g. generateDialog "options" "Choose an option" "${options[@]}"`
+
 
 Configuration
 =================
