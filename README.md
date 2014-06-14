@@ -10,7 +10,7 @@ Configuration
 - **symbol** - Which character to be used to create the menu
 - **paddingSymbol** - Character to space and center the text
 - **lineLength** - How wide the menu should be
-- **charsToOptio** - How much padding you want from the sides of the menu
+- **charsToOption** - How much padding you want from the sides of the menu
 - **charsToName** - How much padding you want around the text
 
 
