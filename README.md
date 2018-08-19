@@ -6,9 +6,9 @@ A simple bash script that will generate menus.
 Examples
 =================
 
-![alt Bash Menu Options Example](https://raw.github.com/JamieCruwys/bash-menu-generator/master/images/Bash Menu Options.png)
+![alt Bash Menu Options Example](https://raw.githubusercontent.com/JamieCruwys/bash-menu-generator/master/images/Bash%20Menu%20Options.png)
 
-![alt Bash Menu Instructions Example](https://raw.github.com/JamieCruwys/bash-menu-generator/master/images/Bash Menu Instructions.png)
+![alt Bash Menu Instructions Example](https://raw.githubusercontent.com/JamieCruwys/bash-menu-generator/master/images/Bash%20Menu%20Instructions.png)
 
 Usage
 =================
@@ -35,3 +35,4 @@ Developed By
 =================
 
 * Jamie Cruwys - <me@jamiecruwys.co.uk>
+
