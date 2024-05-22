@@ -38,7 +38,7 @@ Configuration
 Troubleshooting
 =================
 
-If you try to run your script and you get the error:
+If you try to run the [example](example.sh) and you get the error:
 ```
 zsh: permission denied: ./example.sh
 ```
